@@ -18,11 +18,7 @@ npx expo start
 
 <!-- ![](./resources/1.png "screenshot 1")_Tela inicial_ -->
 
-<img src="./resources/1.png" width="130">
-<img src="./resources/2.png" width="130">
-<img src="./resources/3.png" width="130">
-<img src="./resources/4.png" width="130">
-<img src="./resources/5.png" width="130">
+| <img src="./resources/1.png" width="130"> | <img src="./resources/2.png" width="130"> |<img src="./resources/3.png" width="130"> | <img src="./resources/4.png" width="130"> | <img src="./resources/5.png" width="130"> |
 
 Sequencialmente, da esquerda para direita você pode acompanhar o fluxo de funcionamento da aplicação.
 
